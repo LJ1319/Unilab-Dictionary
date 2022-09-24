@@ -25,7 +25,7 @@
 Download [ZIP](https://github.com/piqasoo/dictionary_engine/archive/refs/heads/master.zip) project or Clone repository
 
 ```
-git clone https://github.com/piqasoo/dictionary_engine.git
+https://github.com/LJ1319/Unilab-Dictionary.git
 ```
 
 Composer install
@@ -65,8 +65,8 @@ php artisan storage:link
 ```
 
 > ⚠️ ℹ️ Information
->
->Change APP_URL=http://localhost, specify the path where this project is running, for example:
+> 
+> Change APP_URL=http://localhost, specify the path where this project is running, for example:
 > APP_URL=http://dictionary.test/ This is necessary to render the image
 
 ## Admin
